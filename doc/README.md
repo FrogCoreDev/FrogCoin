@@ -3,18 +3,18 @@ FROG Core
 
 Setup
 ---------------------
-[PIVX Core](http://pivx.org/wallet) is the original PIVX client and it builds the backbone of the network. However, it downloads and stores the entire history of FROG transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
+[FROG Core](http://pivx.org/wallet) is the original FROG client and it builds the backbone of the network. However, it downloads and stores the entire history of FROG transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
 
 Running
 ---------------------
-The following are some helpful notes on how to run PIVX on your native platform.
+The following are some helpful notes on how to run FROG on your native platform.
 
 ### Unix
 
 Unpack the files into a directory and run:
 
-- bin/32/pivx-qt (GUI, 32-bit) or bin/32/pivxd (headless, 32-bit)
-- bin/64/pivx-qt (GUI, 64-bit) or bin/64/pivxd (headless, 64-bit)
+- bin/32/FROG-qt (GUI, 32-bit) or bin/32/pivxd (headless, 32-bit)
+- bin/64/FROG-qt (GUI, 64-bit) or bin/64/pivxd (headless, 64-bit)
 
 ### Windows
 
@@ -22,13 +22,13 @@ Unpack the files into a directory, and then run pivx-qt.exe.
 
 ### OSX
 
-Drag PIVX-Qt to your applications folder, and then run PIVX-Qt.
+Drag FROG-Qt to your applications folder, and then run PIVX-Qt.
 
 ### Need Help?
 
-* See the documentation at the [PIVX Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
+* See the documentation at the [FROG Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
 for help and more information.
-* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [PIVX Forum](http://forum.pivx.org/).
+* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [FROG Forum](http://forum.FROGFROG.org/).
 * Join our Discord server [Discord Server](https://discord.pivx.org)
 * Join one of our Slack groups [PIVX Slack Groups](https://pivx.org/slack-logins/) (Main community is replaced by Discord).
 
